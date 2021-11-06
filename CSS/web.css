@@ -3073,6 +3073,7 @@ body.showLoginForm .popup {
 .single-job-block span{
     color: #3E3E3E;
     font-family: 'Roboto', sans-serif;
+    font-size: 16px;
     font-weight: bold; 
 }
 .overview-list{
@@ -3234,6 +3235,10 @@ body.showLoginForm .popup {
         font-size: 14px;
         word-spacing: 0rem;
     }
+    .single-job-block span{
+    	font-size: 14px; 
+    }
+	
     .bullet-container{
         margin-top: 7px;
         margin-right: 15px;
